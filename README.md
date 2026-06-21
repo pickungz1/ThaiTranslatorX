@@ -1,0 +1,2 @@
+# ThaiTranslatorX
+For BlueStack
