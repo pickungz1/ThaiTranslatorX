@@ -1,0 +1,7 @@
+mss
+Pillow
+pytesseract
+deep-translator
+pywin32
+numpy
+opencv-python

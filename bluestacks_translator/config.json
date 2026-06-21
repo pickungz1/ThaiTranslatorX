@@ -1,0 +1,13 @@
+{
+  "region": [
+    393,
+    629,
+    1132,
+    770
+  ],
+  "use_adb": true,
+  "interval": 2.0,
+  "src_lang": "English",
+  "dest_lang": "Thai (ภาษาไทย)",
+  "adb_port": "5556"
+}
